@@ -1,0 +1,53 @@
+1. what([a, morning, flight, from, canada, to, an, american, city], Flight)
+
+2. what([an, afternoon, airCanada, flight, from, toronto, to, losAngeles], Flight)
+
+3. what([a, day, international, flight, to, a, city, in, uk], Flight)
+
+4. what([a, morning, domestic, flight, from, toronto, with, any, afternoon, arrival, time], Flight)
+
+5. what([a, unitedAirlines, international, flight, from, a, city, in, canada], Flight)
+
+6. what([any, international, afternoon, flight, between, a, city, in, canada, and, an, american, city], Flight)
+
+7. what([a, long, day, international, flight, from, toronto, to, uk, with, any, evening, arrival, time], Flight)
+
+8. what([the, shortest, flight, between, a, canadian, city, and, a, chinese, city], Flight)
+
+9. what([any, afternoon, arrival, time, of, a, day, domestic, flight, to, an, american, city], Time)
+
+10. what([a, day, departure, time, of, a, domestic, flight, to, miami], Time)
+
+11. what([the, shortest, flight, from, toronto, with, any, morning, departure, time, to, a, canadian, city], F)
+
+12. what([the, day, flight, from, edmonton, to, montreal], FN)
+
+13. what([an, international, flight, from, toronto, to, any, chinese, city, with, any, evening, arrival, time], Flight)
+
+14. what([a, morning, domestic, flight, from, chicago, with, any, arrival, time], Flight)
+
+15. what([any, evening, arrival, time, of, a, day, domestic, flight, to, a, canadian, city], Time)
+
+16. what([an, airCanada, international, flight, to, a, chinese, city, with, any, arrival, time], Flight)
+
+17. what([a, long, international, flight, from, a, canadian, city, to, an, american, city], Flight)
+
+18. what([an, evening, flight, from, usa, to, canada], Flight)
+
+19. what([a, morning, flight, to, a, city, in, china], Flight)
+
+20. what([a, departure, time, of, a, domestic, flight, to, toronto], T).
+
+21. what([any, international, afternoon, flight, from, toronto], FN).
+
+22. what([any, evening, arrival, time, of, a, day, international, flight, to, uk],T).
+
+23. what([the, shortest, international, flight, between, a, canadian, city, and, an, american, city], Flight)
+
+24. what([the, day, flight, from, a, canadian, city, to, a, city, in, uk], Flight)
+
+25. what([the, morning, flight, between, toronto, and, hongKong], Flight)
+
+26. what([the, shortest, flight, from, toronto, to, china], Flight)
+
+27. what([the, unitedAirlines, flight, from, chicago, to, miami], Flight)
